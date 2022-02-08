@@ -1,2 +1,9 @@
-# Myfirstdata s
-Data Analytics Portfolio
+# Data Science & Analytics Portfolio
+This repository contains projects and visualizations created from Data 
+Science & Analytics program with Kansas State University.
+
+## SQL
+
+## Statistics
+
+## Visual Communications
